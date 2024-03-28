@@ -1,0 +1,149 @@
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.csproj.AssemblyReference.cache
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.AssemblyInfoInputs.cache
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.AssemblyInfo.cs
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.csproj.CoreCompileInputs.cache
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.MvcApplicationPartsAssemblyInfo.cs
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.MvcApplicationPartsAssemblyInfo.cache
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\appsettings.Development.json
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\appsettings.json
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\tasks.exe
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\tasks.deps.json
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\tasks.runtimeconfig.json
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\tasks.dll
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\tasks.pdb
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\שנה ב\זילברברג\שיעורי בית\tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\staticwebassets.build.json
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\staticwebassets.development.json
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\scopedcss\bundle\tasks.styles.css
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.csproj.CopyComplete
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.dll
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\refint\tasks.dll
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.pdb
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\tasks.genruntimeconfig.cache
+E:\שנה ב\זילברברג\שיעורי בית\tasks\obj\Debug\net6.0\ref\tasks.dll
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\appsettings.Development.json
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\appsettings.json
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\tasks.exe
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\tasks.deps.json
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\tasks.runtimeconfig.json
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\tasks.dll
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\tasks.pdb
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\גלפמן שפרה\Core-main\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.csproj.AssemblyReference.cache
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.AssemblyInfoInputs.cache
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.AssemblyInfo.cs
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.csproj.CoreCompileInputs.cache
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\staticwebassets.build.json
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\staticwebassets.development.json
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\staticwebassets\msbuild.tasks.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\staticwebassets\msbuild.build.tasks.props
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tasks.props
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tasks.props
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\scopedcss\bundle\tasks.styles.css
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.csproj.CopyComplete
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.dll
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\refint\tasks.dll
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.pdb
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\tasks.genruntimeconfig.cache
+Z:\B\גלפמן שפרה\Core-main\Tasks\obj\Debug\net6.0\ref\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\appsettings.Development.json
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\appsettings.json
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\tasks.exe
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\tasks.deps.json
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\tasks.runtimeconfig.json
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\tasks.pdb
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.csproj.AssemblyReference.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.AssemblyInfoInputs.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.AssemblyInfo.cs
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.csproj.CoreCompileInputs.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\staticwebassets.build.json
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\staticwebassets.development.json
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\staticwebassets\msbuild.tasks.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\staticwebassets\msbuild.build.tasks.props
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tasks.props
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tasks.props
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\scopedcss\bundle\tasks.styles.css
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.csproj.CopyComplete
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\refint\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.pdb
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\tasks.genruntimeconfig.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 3\Tasks\obj\Debug\net6.0\ref\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.csproj.AssemblyReference.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.AssemblyInfoInputs.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.AssemblyInfo.cs
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.csproj.CoreCompileInputs.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\refint\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.pdb
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\appsettings.Development.json
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\appsettings.json
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\Data\tasks.json
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\tasks.exe
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\tasks.deps.json
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\tasks.runtimeconfig.json
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\tasks.pdb
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\staticwebassets.build.json
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\staticwebassets.development.json
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\scopedcss\bundle\tasks.styles.css
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.csproj.CopyComplete
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\tasks.genruntimeconfig.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\obj\Debug\net6.0\ref\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 4\Tasks\bin\Debug\net6.0\tasks.staticwebassets.runtime.json
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\appsettings.Development.json
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\appsettings.json
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\Data\tasks.json
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\tasks.staticwebassets.runtime.json
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\tasks.exe
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\tasks.deps.json
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\tasks.runtimeconfig.json
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\tasks.pdb
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.csproj.AssemblyReference.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.AssemblyInfoInputs.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.AssemblyInfo.cs
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.csproj.CoreCompileInputs.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\staticwebassets.build.json
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\staticwebassets.development.json
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\scopedcss\bundle\tasks.styles.css
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.csproj.CopyComplete
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\refint\tasks.dll
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.pdb
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\tasks.genruntimeconfig.cache
+Z:\B\שמואל שרה\זילברברג\שיעור 5\Tasks\obj\Debug\net6.0\ref\tasks.dll
